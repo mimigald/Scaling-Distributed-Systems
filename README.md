@@ -6,7 +6,7 @@ Para ejecutar los tests contenidos en la carpeta `tests` de este repositorio, as
 ### 1. Descargar el repositorio
 Clona este repositorio en tu máquina local:
 ```sh
- git clone https://github.com/tu-usuario/Scaling-Distributed-Systems.git
+ git clone https://github.com/mimigald/Scaling-Distributed-Systems.git
  cd Scaling-Distributed-Systems
 ```
 
